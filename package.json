@@ -1,0 +1,26 @@
+{
+  "name": "unsplash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArsenBatyuchok/unsplash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArsenBatyuchok/unsplash/issues"
+  },
+  "homepage": "https://github.com/ArsenBatyuchok/unsplash#readme",
+  "dependencies": {
+    "unsplash-js": "^4.6.0"
+  },
+  "devDependencies": {
+    "gulp-babel": "^6.1.2",
+    "gulp-browserify": "^0.5.1"
+  }
+}

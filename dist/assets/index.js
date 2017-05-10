@@ -20,7 +20,7 @@
     for (var i = 0; i <= data.length; i++) {
       if (data[i] && data[i].urls) {
         var img = document.createElement('img');
-        img.setAttribute('src', data[i].urls.small);
+        img.setAttribute('src', data[i].urls.regular);
         wrapper.appendChild(img);
       }
     }
